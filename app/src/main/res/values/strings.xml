@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Bill Calculator</string>
+    <string name="water_calculator">Water calculator</string>
+    <string name="gas_calculator">Gas Calculator</string>
+    <string name="electricity_calculator">Electricity Calculator</string>
+    <string name="internet_calculator">Internet Calculator</string>
+    <string name="utilitymate_communal_cost_calculator">UtilityMate: Communal Cost Calculator</string>
+    <string name="beforeUseKwh">Алдыңғы пайдаланылған бірлік (kWh)</string>
+    <string name="lastUseKwh"> Соңғы пайдаланылған бірлік (kWh) </string>
+    <string name="calculateBill">Төлемді есептеу</string>
+    <string name="clear">Жою</string>
+    <string name="final_cost">Төлемге:</string>
+    <string name="bill_details">Шот туралы ақпарат</string>
+    <string name="block_rate">Деңгейлер (kWh)</string>
+    <string name="used">Мөлшері (kWh)</string>
+    <string name="rate">Баға</string>
+    <string name="total">Төлем</string>
+    <string name="lessThan80"> 80 kWh </string>
+    <string name="_0">0</string>
+    <string name="rebate_cost">Жеңілдік: 0%</string>
+    <string name="total_cost">Толық бағасы: 0</string>
+    <string name="_80_150_kwh">80-150 kWh</string>
+    <string name="_150_kwh"> 150 kWh </string>
+</resources>
